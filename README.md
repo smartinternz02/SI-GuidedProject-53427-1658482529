@@ -6,3 +6,5 @@ This repository contains the Project 2 (Grocery App) which was assigned as a int
 [My SmartInternz Profile](https://smartinternz.com/student-profile/feed/U0IyMDIwMDAyNjAzMA==)
 
 [Google Developers Profile](https://g.dev/itsabhi)
+
+[Project Demo](https://drive.google.com/file/d/1YkPR-nSosG8EVsoFNwB8DJnew7kyNaiW/view?usp=sharing)
